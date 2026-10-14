@@ -1,16 +1,22 @@
-## Hi there 👋
+# Adrián Espínola Gumiel
 
-<!--
-**idarkar3000/idarkar3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador backend junior en .NET / C#.
 
-Here are some ideas to get you started:
+Prácticas en EPAM Neoris (marzo-junio 2026): microservicios con Vertical Slice Architecture y CQRS, APIs con Minimal APIs, JWT y FluentValidation. Acceso a datos con Dapper sobre SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+- [RadarChollos](https://github.com/idarkar3000/RadarChollos): servicio permanente que analiza feeds RSS y notifica por Telegram. .NET 9, Minimal APIs, EF Core, SQLite.
+- [Pdf_Signer](https://github.com/idarkar3000/Pdf_Signer): aplicación de escritorio para visualizar y firmar PDF. WPF, MVVM, PdfiumViewer, PdfPig.
+
+## Stack
+
+C# · .NET · ASP.NET Core · Entity Framework Core · Dapper · SQL Server · SQLite · Docker · Git · Azure DevOps
+
+## Formación
+
+Ingeniería en Diseño y Desarrollo de Videojuegos, URJC (2022-2026).
+
+## Contacto
+
+[Portfolio](https://idarkar3000.github.io/Adrian_Espinola_Portfolio/) · [LinkedIn](https://linkedin.com/in/adrián-espínola-gumiel) · espinolagumieladrian@gmail.com
