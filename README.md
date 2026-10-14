@@ -6,9 +6,9 @@ Prácticas en EPAM Neoris (marzo-junio 2026): microservicios con Vertical Slice 
 
 ## Proyectos
 
+- [CareerCopilot](https://github.com/idarkar3000/CareerCopilot): servicio que busca ofertas de empleo, las puntúa con Gemini y genera un CV adaptado en PDF de una página con Typst, notificando por Telegram. .NET 10, SQLite, Telegram.Bot.
 - [RadarChollos](https://github.com/idarkar3000/RadarChollos): servicio permanente que analiza feeds RSS y notifica por Telegram. .NET 9, Minimal APIs, EF Core, SQLite.
 - [Pdf_Signer](https://github.com/idarkar3000/Pdf_Signer): aplicación de escritorio para visualizar y firmar PDF. WPF, MVVM, PdfiumViewer, PdfPig.
-- [CareerCopilot](https://github.com/idarkar3000/CareerCopilot): servicio que busca ofertas de empleo, las puntúa con Gemini y genera un CV adaptado en PDF de una página con Typst, notificando por Telegram. .NET 10, SQLite, Telegram.Bot.
 
 ## Stack
 
